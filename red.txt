@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 featureeee
 
 buggfixx
+=======
+featureeee 1111
+ashraya get it done
+>>>>>>> ae262973cf6b022019862d0bc948a584379378ec
